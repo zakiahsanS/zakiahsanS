@@ -4,7 +4,7 @@
 
 </p>
 <br>
-### I'm BLACK Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+
 <p align="center">
 <a href="https://github.com/BlackHoleScurityy"><img src="https://raw.githubusercontent.com/BlackHolScurityy/BlackHoleScurityy/main/banner.jpg"></a>
    
