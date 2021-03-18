@@ -1,7 +1,16 @@
 ## Hey, Ngab👋
 
 
+
+
+
 <img src="lord.jpg" alt="MR ZK1">
+
+
+
+
+
+
 
 ### KNOW MORE ABOUT ME>>>>
 <p align="center"><a href="https://github.com/zakiahsanS"><img title="Lord Zaki" src="https://github-readme-stats.vercel.app/api?username=zakiahsanS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
