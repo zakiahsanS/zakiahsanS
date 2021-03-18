@@ -1,7 +1,7 @@
 ## Hey, Ngab👋
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
-<img src="tmp/lord.jpg" width="250" height="250"/>
+<img src="lord.jpg" width="250" height="250"/>
 
 ### KNOW MORE ABOUT ME>>>>
 <p align="center"><a href="https://github.com/zakiahsanS"><img title="Lord Zaki" src="https://github-readme-stats.vercel.app/api?username=zakiahsanS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
